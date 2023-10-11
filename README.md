@@ -1,1 +1,9 @@
-# Iae?
+# Minimo
+
+---
+
+# Simples
+
+---
+
+# Prátivo
