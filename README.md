@@ -1,57 +1,65 @@
-# 📊 **Transforme Seus Dados em Insights Valiosos com Nossos Dashboards Personalizados!**
+## Bem-vindo(a) ao meu portfolio minimalista.
+[![An image of @lpxsbr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lpxsbr)](https://holopin.io/@lpxsbr)
+<div align="start">
+  <h2>Eu me chamo Anselmo :)<h2>
+  <p>Sou desenvolvedor fullstack da terra do sol com muita garra e vontade de aprender</p>
+  <blockquote class="about-me">
+    <p>Sempre gostei muito da área de tecnologia e engenharia, e encontrei por meio da computação uma forma de unir isso. Hoje tenho o objetivo de usar esse conhecimento pra simplificar       a vida das pessoas por meio de aplicações escaláveis</p>
+  </blockquote>
+</div>
+    
+<div class="activitie-container">
+<div class="title">
+  <h3>Bora ver a minha atividade por aqui</h3>
+</div>
 
-## **O Que São Dashboards e Por Que Você Precisa deles?**
+<div class="activities">
+    <img  class="activitie-panel" height="180em" src="https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img  class="lang-panel" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LpxsBr&layout=compact&langs_count=16&theme=github_dark"/>
+</div>
 
-Dashboards são a chave para entender seus dados de maneira clara e eficaz. Eles transformam números e informações em insights visuais que impulsionam sua tomada de decisões. Se você deseja manter uma vantagem competitiva, precisa de Dashboards!
+</div>
 
-<<<<<<< HEAD
-![Dashboard Image](/assets/dashboard.jpg)
-=======
-![Dashboard Image](https://exemplo.com/imagem-dashboard.jpg)
->>>>>>> 1d5c140f48f1f66a110f3ff3fae7b7970d4726de
+---
 
-## **Por Que Escolher Nossos Serviços?**
+<div class="posts-container">
+  <div class="title">
+    <h3>Posts</h3>
+  </div>
+  <div class="blockquote">
+    <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Iae pessoal que chegou aqui *do nada*<br><br>Sou um estudante de engenharia de produção que se meteu nos código a quase 1.2 anos e tá quase mudando de curso :)<br><br>Um dev em ascensão (espero) <a href="https://t.co/lU9GR5r4xx">pic.twitter.com/lU9GR5r4xx</a></p>&mdash; Lopes (@LpxsBr) <a href="https://twitter.com/LpxsBr/status/1693055859620802784?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote>
+    </div>
+</div>
 
-- **Personalização Total:** Criamos Dashboards que atendem às suas necessidades específicas. Não há soluções "tamanho único".
+---
 
-- **Visualização Clara:** Apresentamos seus dados de maneira visualmente atraente, facilitando a compreensão.
+<div style="display: flex; justify-content: center; gap: 20%" class="technologie-container">
+  <div class="title">
+    <h3>Tecnologias</h3>
+  </div>
+  <div class="techologies-list" style="display: flex;">
+    <div>
+      <h4>Frontend</h4>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>React / React Native</li>
+    </div>
+    <div>
+      <h4>Backend</h4>
+      <li>NodeJs</li>
+      <li>PHP</li>
+      <li>Python</li>
+    </div>
+  </div>
+</div>
 
-- **Acesso Móvel:** Nossos Dashboards são responsivos, para que você possa acessar seus dados de qualquer lugar.
-
-<<<<<<< HEAD
-![Responsive Dashboard](/assets/dashboard.jp)
-=======
-![Responsive Dashboard](https://exemplo.com/dashboard-responsivo.jpg)
->>>>>>> 1d5c140f48f1f66a110f3ff3fae7b7970d4726de
-
-- **Manutenção Contínua:** Não criamos apenas Dashboards, também os mantemos atualizados e funcionando perfeitamente.
-
-- **Integração de Dados:** Unificamos seus dados de várias fontes em um único Dashboard para uma visão completa.
-
-<<<<<<< HEAD
-![Data Integration](/assets/dashboard.jp)
-=======
-![Data Integration](https://exemplo.com/integracao-de-dados.jpg)
->>>>>>> 1d5c140f48f1f66a110f3ff3fae7b7970d4726de
-
-- **Suporte 24/7:** Nossa equipe está sempre pronta para ajudar, garantindo que você obtenha o máximo de seus Dashboards.
-
-## **Nossos Processos em Ação**
-
-1. **Consulta Inicial:** Iniciamos com uma reunião para entender suas necessidades e metas.
-
-2. **Design Personalizado:** Criamos um design de Dashboard personalizado para seus dados.
-
-![Custom Dashboard Design](https://exemplo.com/design-personalizado-dashboard.jpg)
-
-3. **Desenvolvimento e Implementação:** Transformamos o design em realidade e integramos seus dados.
-
-4. **Manutenção e Suporte:** Mantemos seus Dashboards atualizados e fornecemos suporte contínuo.
-
-5. **Resultados Notáveis:** Obtenha insights valiosos e tome decisões informadas.
-
-## **Comece Agora!**
-
-Se você deseja aproveitar ao máximo seus dados e tomar decisões com base em informações sólidas, nossos Dashboards personalizados são a resposta. Deixe-nos criar e manter Dashboards eficazes para você, para que você possa focar no que realmente importa.
-
-[**Entre em Contato Agora**](#)
+<div align="center">
+  <div class="title">
+    <h3>Contato</h3>
+  </div>
+  <a href="https://www.linkedin.com/in/anselmolopess" target="_blank>
+    <img  width="150em" src="https://img.shields.io/badge/-Anselmo%20Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anselmolopess"/>
+  </a>
+  
+</div>
